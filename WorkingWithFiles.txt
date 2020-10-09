@@ -1,0 +1,4 @@
+Line1. Working with Python File
+Line 2. Opening a file
+Line 3. Reading a file
+Line 4. Writing to a file
